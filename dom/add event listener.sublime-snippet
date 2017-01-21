@@ -5,5 +5,5 @@ addEventListener('${2:event}', ${3:ev} => {
 })
 ]]></content>
   <tabTrigger>ae</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

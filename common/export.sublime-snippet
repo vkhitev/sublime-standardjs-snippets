@@ -3,5 +3,5 @@
 export ${1:member}
 ]]></content>
   <tabTrigger>ex</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

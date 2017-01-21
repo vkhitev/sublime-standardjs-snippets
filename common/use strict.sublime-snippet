@@ -3,5 +3,5 @@
 'use strict'
 ]]></content>
   <tabTrigger>us</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

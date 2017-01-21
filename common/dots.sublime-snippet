@@ -3,5 +3,5 @@
 ${1:key}: ${2:'value'}
 ]]></content>
   <tabTrigger>kv</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

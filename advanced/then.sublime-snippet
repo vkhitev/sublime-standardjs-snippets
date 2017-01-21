@@ -5,5 +5,5 @@ ${1:promise}.then((${2:value}) => {
 })
 ]]></content>
   <tabTrigger>then</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

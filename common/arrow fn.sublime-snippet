@@ -3,5 +3,5 @@
 (${1:arguments}) => ${2:statement}
 ]]></content>
   <tabTrigger>af</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

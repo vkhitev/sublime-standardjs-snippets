@@ -5,5 +5,5 @@ for (const ${1:key} in ${2:collection}) {
 }
 ]]></content>
   <tabTrigger>fi</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

@@ -3,5 +3,5 @@
 setAttribute('${2:attr}', ${3:value})
 ]]></content>
   <tabTrigger>sa</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

@@ -3,5 +3,5 @@
 createElement(${2:elem})
 ]]></content>
   <tabTrigger>cel</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

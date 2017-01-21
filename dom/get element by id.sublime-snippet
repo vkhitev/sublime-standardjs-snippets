@@ -3,5 +3,5 @@
 getElementById('${2:id}')
 ]]></content>
   <tabTrigger>gi</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

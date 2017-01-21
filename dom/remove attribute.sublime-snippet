@@ -3,5 +3,5 @@
 removeAttribute('${2:attr}')
 ]]></content>
   <tabTrigger>ra</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

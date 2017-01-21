@@ -3,5 +3,5 @@
 JSON.stringify(${1})
 ]]></content>
   <tabTrigger>js</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

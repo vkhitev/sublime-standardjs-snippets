@@ -3,5 +3,5 @@
 import {$1} from '${2:module}'
 ]]></content>
   <tabTrigger>imd</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

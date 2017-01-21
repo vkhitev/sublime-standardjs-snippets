@@ -5,5 +5,5 @@ reduce((${2:previous}, ${3:current}) => {
 }${4:, initial})
 ]]></content>
   <tabTrigger>reduce</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

@@ -5,5 +5,5 @@ it('${1:description}', function (done) {
 })
 ]]></content>
   <tabTrigger>ita</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

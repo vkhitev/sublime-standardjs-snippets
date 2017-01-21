@@ -3,5 +3,5 @@
 removeChild(${2:elem})
 ]]></content>
   <tabTrigger>rc</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

@@ -3,5 +3,5 @@
 removeEventListener('${2:event}', ${3:listener})
 ]]></content>
   <tabTrigger>rel</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

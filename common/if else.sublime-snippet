@@ -7,5 +7,5 @@ if (${1:condition}) {
 }
 ]]></content>
   <tabTrigger>ife</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

@@ -3,5 +3,5 @@
 exports.${1:name} = ${2:value}
 ]]></content>
   <tabTrigger>em</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

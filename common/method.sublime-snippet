@@ -5,5 +5,5 @@ ${1:method} (${2:arguments}) {
 }
 ]]></content>
   <tabTrigger>m</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

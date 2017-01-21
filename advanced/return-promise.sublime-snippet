@@ -5,5 +5,5 @@ return new Promise((resolve, reject) => {
 })
 ]]></content>
   <tabTrigger>rp</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>

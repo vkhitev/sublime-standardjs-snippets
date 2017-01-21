@@ -5,5 +5,5 @@ after(function () {
 })
 ]]></content>
   <tabTrigger>aft</tabTrigger>
-  <scope><source class="javascript"/></scope>
+  <scope>source.js,source.jsx</scope>
 </snippet>
