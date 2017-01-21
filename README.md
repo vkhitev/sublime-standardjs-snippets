@@ -23,6 +23,6 @@ Uses [JavaScript Standard Code Style](https://github.com/feross/standard). Read 
 License
 -------
 
-Copyright 2012-2015, Vlad Khitev  <vkhitev@gmail.com>
+Copyright 2017, Vlad Khitev  <vkhitev@gmail.com>
 
 MIT
