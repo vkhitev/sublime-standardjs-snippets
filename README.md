@@ -11,3 +11,18 @@ Smaller version of [standardjs snippets for Atom](https://atom.io/packages/stand
 2. Add custom snippets:
   * Preferences -> Browse Packages.
   * Add content of this repo to User/Snippets
+
+JavaScript Style
+----------------
+
+[![js-standard-style](https://raw.githubusercontent.com/feross/standard/master/badge.png)](https://github.com/feross/standard)
+
+Uses [JavaScript Standard Code Style](https://github.com/feross/standard). Read the rules [here](https://github.com/feross/standard#rules).
+
+
+License
+-------
+
+Copyright 2012-2015, Vlad Khitev  <vkhitev@gmail.com>
+
+MIT
