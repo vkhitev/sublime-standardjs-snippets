@@ -3,7 +3,6 @@
 every((${2:item}) => {
   ${0}
 })
-
 ]]></content>
   <tabTrigger>every</tabTrigger>
   <scope><source class="javascript"/></scope>
