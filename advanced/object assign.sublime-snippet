@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+Object.assign(${1:dest}, ${2:source})
+]]></content>
+  <tabTrigger>oa</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

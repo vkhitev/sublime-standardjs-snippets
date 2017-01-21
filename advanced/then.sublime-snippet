@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+${1:promise}.then((${2:value}) => {
+  ${0}
+})
+]]></content>
+  <tabTrigger>then</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

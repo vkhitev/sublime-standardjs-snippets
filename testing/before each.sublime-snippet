@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+beforeEach(function () {
+  ${0}
+})
+]]></content>
+  <tabTrigger>bfe</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

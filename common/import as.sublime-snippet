@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+import ${1:*} as ${2:name} from '${3:module}'
+]]></content>
+  <tabTrigger>ima</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

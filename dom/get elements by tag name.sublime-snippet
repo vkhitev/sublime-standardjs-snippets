@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+getElementsByTagName('${2:tag}')
+]]></content>
+  <tabTrigger>gt</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

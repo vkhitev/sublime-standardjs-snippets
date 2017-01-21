@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+for (const ${1:key} in ${2:collection}) {
+  ${0}
+}
+]]></content>
+  <tabTrigger>fi</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

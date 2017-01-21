@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+${1:key}: ${2:'value'}
+]]></content>
+  <tabTrigger>kv</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

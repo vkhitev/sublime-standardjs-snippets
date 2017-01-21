@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+setInterval(() => {
+  ${0}
+}, ${1:delay})
+]]></content>
+  <tabTrigger>si</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

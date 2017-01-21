@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+try {
+ ${0}
+} catch (${1:err}) {
+
+}
+]]></content>
+  <tabTrigger>tc</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

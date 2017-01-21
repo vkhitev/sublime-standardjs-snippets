@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+classList.toggle('${2:class}')
+]]></content>
+  <tabTrigger>ct</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

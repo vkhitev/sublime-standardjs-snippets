@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+reduce((${2:previous}, ${3:current}) => {
+  ${0}
+}${4:, initial})
+]]></content>
+  <tabTrigger>reduce</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

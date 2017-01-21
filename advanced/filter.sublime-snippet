@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+filter((${2:item}) => {
+  ${0}
+})
+]]></content>
+  <tabTrigger>filter</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

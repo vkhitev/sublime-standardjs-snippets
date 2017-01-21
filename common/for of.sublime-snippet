@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+for (const ${1:value} of ${2:collection}) {
+  ${0}
+}
+]]></content>
+  <tabTrigger>fo</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

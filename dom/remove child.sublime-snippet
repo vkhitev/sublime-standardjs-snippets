@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+removeChild(${2:elem})
+]]></content>
+  <tabTrigger>rc</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

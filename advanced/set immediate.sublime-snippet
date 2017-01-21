@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+setImmediate(() => {
+  ${0}
+})
+]]></content>
+  <tabTrigger>sim</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

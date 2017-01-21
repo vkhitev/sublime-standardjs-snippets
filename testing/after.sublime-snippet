@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+after(function () {
+  ${0}
+})
+]]></content>
+  <tabTrigger>aft</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+class ${1:name} {
+  constructor(${2:arguments}) {
+    ${0}
+  }
+}
+]]></content>
+  <tabTrigger>cs</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+module.exports = ${1:name}
+]]></content>
+  <tabTrigger>me</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+try {
+  ${0}
+} catch (${1:err}) {
+
+} finally {
+
+}
+]]></content>
+  <tabTrigger>tcf</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+export default ${1:member}
+]]></content>
+  <tabTrigger>exd</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

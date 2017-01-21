@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+${1:method} (${2:arguments}) {
+  ${0}
+}
+]]></content>
+  <tabTrigger>m</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

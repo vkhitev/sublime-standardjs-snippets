@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+querySelectorAll('${2:selector}')
+]]></content>
+  <tabTrigger>qsa</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

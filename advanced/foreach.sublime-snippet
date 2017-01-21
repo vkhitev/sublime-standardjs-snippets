@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+forEach((${2:item}) => {
+  ${0}
+})
+]]></content>
+  <tabTrigger>fe</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>

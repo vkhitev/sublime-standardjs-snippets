@@ -1,0 +1,7 @@
+<snippet>
+  <content><![CDATA[
+exports.${1:name} = ${2:value}
+]]></content>
+  <tabTrigger>em</tabTrigger>
+  <scope><source class="javascript"/></scope>
+</snippet>
