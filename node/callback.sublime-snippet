@@ -1,11 +1,12 @@
 <snippet>
   <content><![CDATA[
-if (${1:condition}) {
+(err, ${1:arguments}) => {
+  if (err) {
+    throw err
+  }
   ${0}
-} else {
-
 }
 ]]></content>
-  <tabTrigger>ifelse</tabTrigger>
+  <tabTrigger>cb</tabTrigger>
   <scope>source.js,source.jsx</scope>
 </snippet>

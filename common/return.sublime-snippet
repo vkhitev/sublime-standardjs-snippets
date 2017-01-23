@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-console.warn(${1})
+return ${0}
 ]]></content>
-  <tabTrigger>cw</tabTrigger>
+  <tabTrigger>return</tabTrigger>
   <scope>source.js,source.jsx</scope>
 </snippet>

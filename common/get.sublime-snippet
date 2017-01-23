@@ -1,7 +1,9 @@
 <snippet>
   <content><![CDATA[
-console.warn(${1})
+get ${1:property} () {
+  ${0}
+}
 ]]></content>
-  <tabTrigger>cw</tabTrigger>
+  <tabTrigger>get</tabTrigger>
   <scope>source.js,source.jsx</scope>
 </snippet>

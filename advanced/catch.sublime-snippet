@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-catch((${2:err}) => {
+catch((${1:err}) => {
   ${0}
 })
 ]]></content>

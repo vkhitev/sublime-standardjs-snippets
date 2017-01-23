@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-removeChild(${2:elem})
+${1:document}.removeChild(${2:elem})
 ]]></content>
   <tabTrigger>rc</tabTrigger>
   <scope>source.js,source.jsx</scope>

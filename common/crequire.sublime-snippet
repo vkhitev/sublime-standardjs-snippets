@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-const ${1} = require('${1}')
+const ${1:module} = require('${2:module}')
 ]]></content>
   <tabTrigger>cre</tabTrigger>
   <scope>source.js,source.jsx</scope>

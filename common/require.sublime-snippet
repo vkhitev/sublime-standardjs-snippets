@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-require('${1}')
+require('${1:module}')
 ]]></content>
-  <tabTrigger>re</tabTrigger>
+  <tabTrigger>require</tabTrigger>
   <scope>source.js,source.jsx</scope>
 </snippet>

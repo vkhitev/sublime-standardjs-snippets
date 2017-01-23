@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-then((${2:value}) => {
+then((${1:value}) => {
   ${0}
 })
 ]]></content>

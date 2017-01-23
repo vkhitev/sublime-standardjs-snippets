@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+class ${1:name} extends ${2:base} {
+  constructor(${2:arguments}) {
+    super(${2:arguments})
+    ${0}
+  }
+}
+]]></content>
+  <tabTrigger>csx</tabTrigger>
+  <scope>source.js,source.jsx</scope>
+</snippet>

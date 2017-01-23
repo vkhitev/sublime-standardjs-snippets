@@ -4,6 +4,6 @@ else {
   ${0}
 }
 ]]></content>
-  <tabTrigger>el</tabTrigger>
+  <tabTrigger>else</tabTrigger>
   <scope>source.js,source.jsx</scope>
 </snippet>

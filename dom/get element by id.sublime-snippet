@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-document.getElementById('${2:id}')
+${1:document}.getElementById('${2:id}')
 ]]></content>
   <tabTrigger>gi</tabTrigger>
   <scope>source.js,source.jsx</scope>
