@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-Array.from(${1:document}.querySelectorAll('${2:selector}'))
+const ${1:copy} = { ...${2:original}${3:, new} }
 ]]></content>
-  <tabTrigger>qsa</tabTrigger>
+  <tabTrigger>cas</tabTrigger>
   <scope>source.js,source.jsx</scope>
 </snippet>

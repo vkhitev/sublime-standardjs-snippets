@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-${1:document}.getElementsByTagName('${2:tag}')
+Array.from(${1:document}.getElementsByTagName('${2:tag}'))
 ]]></content>
   <tabTrigger>gt</tabTrigger>
   <scope>source.js,source.jsx</scope>

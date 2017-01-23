@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-Array.from(${1:document}.querySelectorAll('${2:selector}'))
+Object.prototype.hasOwnProperty.call(${1:object}, ${2:key})
 ]]></content>
-  <tabTrigger>qsa</tabTrigger>
+  <tabTrigger>hop</tabTrigger>
   <scope>source.js,source.jsx</scope>
 </snippet>

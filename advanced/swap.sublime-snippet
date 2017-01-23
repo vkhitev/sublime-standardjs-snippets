@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-Array.from(${1:document}.querySelectorAll('${2:selector}'))
+[${1}, ${2}] = [${2}, ${1}]
 ]]></content>
-  <tabTrigger>qsa</tabTrigger>
+  <tabTrigger>swap</tabTrigger>
   <scope>source.js,source.jsx</scope>
 </snippet>

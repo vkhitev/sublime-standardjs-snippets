@@ -1,9 +1,7 @@
 <snippet>
   <content><![CDATA[
-set ${1:property} (${2:value}) {
-  ${0}
-}
+const ${1:copy} = [...${2:original}${3:, new}]
 ]]></content>
-  <tabTrigger>set</tabTrigger>
+  <tabTrigger>car</tabTrigger>
   <scope>source.js,source.jsx</scope>
 </snippet>

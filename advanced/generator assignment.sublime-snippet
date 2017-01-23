@@ -1,12 +1,9 @@
 <snippet>
   <content><![CDATA[
-get ${1:property} () {
+const ${1:name} = function* ${1:name} (${2:arguments}) {
   ${0}
 }
-set ${1:property} (${2:value}) {
-
-}
 ]]></content>
-  <tabTrigger>gs</tabTrigger>
+  <tabTrigger>gas</tabTrigger>
   <scope>source.js,source.jsx</scope>
 </snippet>
