@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-querySelectorAll('${2:selector}')
+document.querySelectorAll('${2:selector}')
 ]]></content>
   <tabTrigger>qsa</tabTrigger>
   <scope>source.js,source.jsx</scope>

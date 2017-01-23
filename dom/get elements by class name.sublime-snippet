@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-getElementsByClassName('${2:class}')
+document.getElementsByClassName('${2:class}')
 ]]></content>
   <tabTrigger>gc</tabTrigger>
   <scope>source.js,source.jsx</scope>

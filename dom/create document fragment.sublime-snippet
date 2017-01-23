@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-createDocumentFragment(${2:elem})
+document.createDocumentFragment(${2:elem})
 ]]></content>
   <tabTrigger>cdf</tabTrigger>
   <scope>source.js,source.jsx</scope>
