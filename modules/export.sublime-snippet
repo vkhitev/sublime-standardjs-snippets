@@ -2,6 +2,6 @@
   <content><![CDATA[
 export ${1:member}
 ]]></content>
-  <tabTrigger>export</tabTrigger>
+  <tabTrigger>exp</tabTrigger>
   <scope>source.js,source.jsx</scope>
 </snippet>

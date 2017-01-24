@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-export default ${1:member}
+Number
 ]]></content>
-  <tabTrigger>exdef</tabTrigger>
+  <tabTrigger>N</tabTrigger>
   <scope>source.js,source.jsx</scope>
 </snippet>

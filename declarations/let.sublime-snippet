@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-${1:document}.classList.remove('${2:class}')
+let ${1:name} = ${2:value}
 ]]></content>
-  <tabTrigger>clr</tabTrigger>
+  <tabTrigger>l</tabTrigger>
   <scope>source.js,source.jsx</scope>
 </snippet>

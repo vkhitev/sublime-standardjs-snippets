@@ -1,9 +1,7 @@
 <snippet>
   <content><![CDATA[
-else {
-  ${0}
-}
+Object
 ]]></content>
-  <tabTrigger>else</tabTrigger>
+  <tabTrigger>O</tabTrigger>
   <scope>source.js,source.jsx</scope>
 </snippet>

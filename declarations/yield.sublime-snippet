@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-${1:document}.classList.remove('${2:class}')
+yield ${1:value}
 ]]></content>
-  <tabTrigger>clr</tabTrigger>
+  <tabTrigger>yi</tabTrigger>
   <scope>source.js,source.jsx</scope>
 </snippet>

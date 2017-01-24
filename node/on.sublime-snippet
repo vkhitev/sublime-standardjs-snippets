@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-on('${2:event}', (${3:arguments}) => {
+on('${1:event}', (${2:arguments}) => {
   ${0}
 })
 ]]></content>

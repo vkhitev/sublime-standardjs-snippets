@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-yield ${1:value}
+Array
 ]]></content>
-  <tabTrigger>yield</tabTrigger>
+  <tabTrigger>A</tabTrigger>
   <scope>source.js,source.jsx</scope>
 </snippet>

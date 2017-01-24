@@ -1,7 +1,7 @@
 <snippet>
   <content><![CDATA[
-let ${1:name} = ${2:value}
+String
 ]]></content>
-  <tabTrigger>let</tabTrigger>
+  <tabTrigger>S</tabTrigger>
   <scope>source.js,source.jsx</scope>
 </snippet>
